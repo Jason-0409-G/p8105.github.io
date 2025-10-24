@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jason's awesome website
@@ -26,6 +25,9 @@ rnorm(10)
 
 
 ## local images
-
+These are some photos about decks
 ![](images/IMG_8762.jpeg)
 ![](images/IMG_8765.jpeg)
+
+## Link to page within the site
+[About me](about-me.html)
