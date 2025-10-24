@@ -10,3 +10,22 @@ output:
 # This is Jason's awesome website
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+## Here is the subsection
+
+```{r}
+rnorm(10)
+```
+
+
+## Here is some useful links
+
+* [Geogle](https://www.google.com/)
+* [P8105](https://p8105.com/)
+
+
+## local images
+
+![](images/IMG_8762.jpeg)
+![](images/IMG_8765.jpeg)
